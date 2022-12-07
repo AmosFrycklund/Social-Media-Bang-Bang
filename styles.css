@@ -1,4 +1,6 @@
 .facebookDiv{
     display: flex;
     background-color: lightslategray;
+    width: 10vw;
+    height: 10vh;
 }
